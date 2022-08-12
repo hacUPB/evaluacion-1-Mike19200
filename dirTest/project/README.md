@@ -23,5 +23,5 @@ the relevant
 [README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
 for details.
 
-
+- Estoy agregando un texto corto en el cual explico lo que hice anteriormente, clonee el repositorio que nos dieron en github classroom y modifique el codigo del archivo wcat.c y mande los cambios al repositorio -
 
