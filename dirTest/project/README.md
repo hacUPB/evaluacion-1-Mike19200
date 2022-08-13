@@ -25,3 +25,4 @@ for details.
 
 - Estoy agregando un texto corto en el cual explico lo que hice anteriormente, clonee el repositorio que nos dieron en github classroom y modifique el codigo del archivo wcat.c y mande los cambios al repositorio -
 
+Imagen: (https://pbs.twimg.com/media/FEIEX8fXMAUbHZb.jpg)
