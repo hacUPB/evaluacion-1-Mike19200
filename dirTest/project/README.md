@@ -28,4 +28,9 @@ for details.
 Imagen: (https://pbs.twimg.com/media/FEIEX8fXMAUbHZb.jpg)
 
 Hipervinculo: (https://www.colombia.com/gastronomia/recetas-colombianas/espaguetis-con-pollo-r885
-
+ Lista ordenada de comandos de git que utilice en el proceso:
+ 1. Clonar mi repositorio : git clone (url del repositorio)
+ 2.Adicionar el archivo wcat.c al STAGE: git status, git add .
+ 3.realizar un commit: git commit -m "realice un commit"
+ 4.sincronizar con el repositorio remoto: git push
+ 
